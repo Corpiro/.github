@@ -1,12 +1,17 @@
-## Hi there 👋
+# Corpiro 🧠📊
 
-<!--
+**Workforce Intelligence, Reinvented.**  
+Corpiro helps HR teams, recruiters, and workforce analysts gain actionable insights from real-time job postings, hiring patterns, and talent trends across industries.
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 What is Corpiro?
+
+Corpiro is a data-driven HR analytics platform built to help organizations:
+
+- 📍 **Monitor hiring trends** by company, region, or role  
+- 🧠 **Analyze job descriptions** to extract skill & demand insights  
+- 🔍 **Track competitors’ hiring moves** in real-time  
+- 🗺️ **Visualize market demand** via smart dashboards  
+
+All powered by modern scraping, enrichment, and AI-based analysis.
